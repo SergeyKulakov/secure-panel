@@ -1,0 +1,5 @@
+const { REACT_APP_API_URL, REACT_APP_GATEWAY_API_NAME } = process.env;
+
+export const API_URL = REACT_APP_API_URL;
+
+export const GATEWAY_API_NAME = REACT_APP_GATEWAY_API_NAME;

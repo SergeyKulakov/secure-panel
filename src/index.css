@@ -1,0 +1,19 @@
+* {
+  color: #222a32;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.MuiBox-root {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.MuiButton-contained {
+  margin: 0px !important;
+}
